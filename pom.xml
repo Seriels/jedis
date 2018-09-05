@@ -12,7 +12,7 @@
 	<version>3.0.0-SNAPSHOT</version>
 	<name>Jedis</name>
 	<description>Jedis is a blazingly small and sane Redis java client.</description>
-  <url>https://github.com/xetorthio/jedis</url>
+  <url>https://github.com/Seriels/jedis</url>
 
 	<mailingLists>
 		<mailingList>
@@ -34,13 +34,13 @@
 
 	<issueManagement>
 		<system>github</system>
-		<url>http://github.com/xetorthio/jedis/issues</url>
+		<url>http://github.com/Seriels/jedis/issues</url>
 	</issueManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:xetorthio/jedis.git</connection>
-    <url>scm:git:git@github.com:xetorthio/jedis.git</url>
-    <developerConnection>scm:git:git@github.com:xetorthio/jedis.git</developerConnection>
+    <connection>scm:git:git@github.com:Seriels/jedis.git</connection>
+    <url>scm:git:git@github.com:Seriels/jedis.git</url>
+    <developerConnection>scm:git:git@github.com:Seriels/jedis.git</developerConnection>
     <tag>jedis-2.2.0</tag>
   </scm>
 
@@ -91,7 +91,7 @@
       <repository>
           <id>github</id>
           <name>GitHub ${project.artifactId} Repository</name>
-          <url>https://raw.github.com/xetorthio/${project.artifactId}/mvn-repo</url>
+          <url>https://raw.github.com/Seriels/${project.artifactId}/mvn-repo</url>
       </repository>
   </distributionManagement>
 
